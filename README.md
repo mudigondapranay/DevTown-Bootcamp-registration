@@ -40,19 +40,19 @@ This project showcases a refined, highly usable registration flow for DevTown’
 
 **Step 1:**  
 _Bootcamp registration and referral unlock UI_  
-![Bootcamp Registration Top](devtown-1.jpg)
+![Bootcamp Registration Top](devtown-1.png)
 
 **Step 2:**  
 _Share & Social Unlock Example_  
-![Share to Unlock](devtown-2.jpg)
+![Share to Unlock](devtown-2.png)
 
 **Step 3:**  
 _Successful Registration_  
-![Registration Success](devtown-3.jpg)
+![Registration Success](devtown-3.png)
 
 **Step 4:**  
 _Event Info & Auth Example_  
-![Event Auth Sample](devtown-4.jpg)
+![Event Auth Sample](devtown-4.png)
 
 </div>
 
