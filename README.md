@@ -1,36 +1,28 @@
 # 🚀 DevTown Bootcamp Registration
 
-**Modern, seamless UI for bootcamp signups, referrals, and onboarding — powering the next generation of learning.**
+**A modern, multi-step registration UI for DevTown’s 7-Day Bootcamp.  
+Social, seamless, and built for next-gen learners.**
 
 ---
 
-## 📝 Project Overview
+## 📋 Project Overview
 
-This project showcases a refined, highly usable registration flow for DevTown’s 7-Day Free Bootcamp Series, with a special emphasis on user engagement and conversion.
+This repo features the complete journey for user-friendly bootcamp registration, including referral unlock and integrated authentication—all presented with a minimal, branded design:
 
-- Step-by-step registration with visual feedback
-- Referral unlock system to boost reach and social sharing
-- Clean, accessible design for every user
-- Designed for scalability and mobility (desktop/tablet/mobile)
+- Progressive registration steps guide users
+- Referral unlock promotes organic reach
+- Clean login and event details section
+- Built for mobile, tablet, and desktop
 
 ---
 
 ## 🌟 Features
 
-- **Multi-Step Registration:**  
-  Flow from data entry → share to unlock → instant, visual confirmation.
-
-- **Referral & Social Boost:**  
-  Easy sharing with friends/groups to maximize event awareness.
-
-- **Elegant Success States:**  
-  Clear, celebratory UI on completion.
-
-- **Futuristic, Minimal Visuals:**  
-  DevTown brand mark, hero banners, and content blocks, crafted for learner trust.
-
-- **Integrated Auth:**  
-  Login, signup, and SSO modules for various ID providers.
+- Multi-step form: Info collection → Social sharing → Confirmation
+- Share-to-unlock event mechanism (WhatsApp & more)
+- Social-friendly, high-trust UI
+- Responsive, sleek design
+- Google, Apple, GitHub sign-in integration (visualized)
 
 ---
 
@@ -38,41 +30,29 @@ This project showcases a refined, highly usable registration flow for DevTown’
 
 <div align="center">
 
-**Step 1:**  
-_Bootcamp registration and referral unlock UI_  
-![Bootcamp Registration Top](devtown-1.png)
+**Step 1 – Introduction**  
+![Registration Intro](registration-step-1-intro.png)
 
-**Step 2:**  
-_Share & Social Unlock Example_  
-![Share to Unlock](devtown-2.png)
+**Step 2 – Share to Unlock**  
+![Share to Unlock](registration-step-2-share.png)
 
-**Step 3:**  
-_Successful Registration_  
-![Registration Success](devtown-3.png)
+**Step 3 – Registration Success**  
+![Success Confirmation](registration-step-3-success.png)
 
-**Step 4:**  
-_Event Info & Auth Example_  
-![Event Auth Sample](devtown-4.png)
+**Event Information & Login**  
+![Auth and Event](registration-login-and-event.png)
 
 </div>
 
 ---
 
-## 🎨 Design System
+## 🛠️ Design Highlights
 
-- Built in Figma for pixel-perfect developer handoff
-- Brand-first colors and button palette
-- Consistent iconography and information hierarchy
-- Mobile-responsive spacing, navigation, and feedback
-
----
-
-## 🛠️ Tech Stack Recommendations
-
-- **React / Next.js** — Component-based, scalable UI
-- **Firebase / Auth0** — Secure, modern authentication
-- **Node.js backend** — API-ready for registration and analytics
-- **Tailwind CSS or styled-components** — Design-token driven styling
+- Built in Figma for pixel-perfect handoff
+- DevTown brand colors, logo, and UI atoms
+- Clear navigation prompts and progress indicators
+- Celebratory success and error states
+- Designed for a frictionless experience across all platforms
 
 ---
 
@@ -86,17 +66,14 @@ _Event Info & Auth Example_
 
 ## 🤝 Contributions
 
-PRs, design feedback, and enhancements welcome!  
-Fork, open an issue, or submit your improvements.
+Feedback and PRs welcome—improve flows, UI, or add new social integrations (open an issue or PR).
 
 ---
 
 ## ⚡ License
 
-Intellectual property of DevTown.  
-Contact for collaboration or extended use.
+UI & design IP—contact for commercial use/collaborations.
 
 ---
 
-> _Learning made social, simple, and sharply modern._
-
+> _Empowering learners with simple, verified, and viral registration journeys._
